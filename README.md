@@ -13,31 +13,31 @@ The dataset consists of various metadata of about the most commented product in 
 
 | **Variable** | **Definition** | 
 | :-------- | :------- | 
-| **reviewerID:** | User ID | 
-| **asin:** | Product ID |  
-| **reviewerName:** | Username | 
-| **helpful:** | Helpful evaluation rating |  
-| **reviewText:** | Review |  
-| **overall:** | Product rating |  
-| **summary:** | Review summary |  
-| **unixReviewTime:** | Date of review |  
-| **reviewTime:** | Date of review Raw |  
-| **day_diff:** | Number of days since review |  
-| **helpful_yes:** | Number of votes the review has been found helpful |  
-| **total_vote:** | Number of total votes on the review |
+| **reviewerID** | User ID | 
+| **asin** | Product ID |  
+| **reviewerName** | Username | 
+| **helpful** | Helpful evaluation rating |  
+| **reviewText** | Review |  
+| **overall** | Product rating |  
+| **summary** | Review summary |  
+| **unixReviewTime** | Date of review |  
+| **reviewTime** | Date of review Raw |  
+| **day_diff** | Number of days since review |  
+| **helpful_yes** | Number of votes the review has been found helpful |  
+| **total_vote** | Number of total votes on the review |
 
 ## Run on your PC
 
 Clone the project
 
 ```bash
-  git clone https://github.com/cagkangrsy/customer_segmentation_with_rfm
+  git clone https://github.com/cagkangrsy/rating_product_sorting_reviews
 ```
 
 Go to project directory
 
 ```bash
-  cd customer_segmentation_with_rfm
+  cd rating_product_sorting_reviews
 ```
 
 Run the notebook.
